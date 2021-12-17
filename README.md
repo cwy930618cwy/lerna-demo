@@ -1,4 +1,4 @@
-# single-spa-lerna-demo
+# lerna-demo
 single-spa+lerna demo
 
 子模块互相引用
